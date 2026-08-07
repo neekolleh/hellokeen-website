@@ -1,0 +1,44 @@
+
+
+@font-face {
+	font-family: 'Didot';
+	src: url('didot.eot');
+	src: url('didot.eot?') format('eot'),
+		 url('didot.woff') format('woff'),
+		 url('didot.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Didot-italic';
+	src: url('didot-italic.eot');
+	src: url('didot-italic.woff') format('woff'),
+		 url('didot-italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+	
+	
+@font-face {
+    font-family: 'DIN-LightRegular';
+    src: url('din-light-webfont.eot');
+    src: url('din-light-webfont.eot?') format('eot'),
+         url('din-light-webfont.woff') format('woff'),
+         url('din-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Brandon-Grotesque';
+    src: url('brandon-grotesque.eot');
+    src: url('brandon-grotesque.eot?') format('eot'),
+         url('brandon-grotesque.woff') format('woff'),
+         url('brandon-grotesque.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
