@@ -44,7 +44,7 @@
     
     <section class="rw-wrapper">
 
-    	<h1 class="rw-sentence">Thanks for saying <a href="mailto:keenonsnell@gmail.com?subject=Hello%20Keen">hello</a>.</h1><br />
+    	<h1 class="rw-sentence">Thanks for saying <a href="mailto:info@hellokeen.com?subject=Hello%20Keen">hello</a>.</h1><br />
 
 	</section>
                 
@@ -65,24 +65,12 @@
         
         <div id="content">
         
-            <div class="box cat1"><a href="work/arkatex.php"><img class="vignette2" src="images/arkatex_thumb.jpg" alt="Arkatex" />
-            <span class="info"><span class="text"><span class="title">Arkatex</span><span class="type"><br />/ Website /</span></span></span></a> 
-            </div>
-            
-            <div class="box cat1"><a href="work/prup.php"><img class="vignette2" src="images/prup_thumb.jpg" alt="Pink Robot Unicorn Princess" />
-            <span class="info"><span class="text"><span class="title">Pink Robot<Br />Unicorn Princess</span><span class="type"><br />/ Website /</span></span></span></a> 
-            </div>
-            
             <div class="box cat1"><a href="work/chad-erickson.php"><img class="vignette2" src="images/chad-erickson_thumb.jpg" alt="Chad Erickson Creative" />
             <span class="info"><span class="text"><span class="title">Chad Erickson<br /> Creative</span><span class="type"><br />/ Website /</span></span></span></a> 
             </div>
-                          
+              
             <div class="box cat2 cat3"><a href="work/digital-cubism.php"><img class="vignette2" src="images/digital-cubism_thumb.jpg" alt="Digital Cubism" />
             <span class="info"><span class="text"><span class="title">Digital Cubism</span><span class="type"><br />/ Poster /</span></span></span></a>
-            </div> 
-            
-            <div class="box cat1"><a href="work/trey-morgan01.php"><img class="vignette2" src="images/trey-morgan-website_thumb.jpg" alt="Trey Morgan Website" />
-            <span class="info"><span class="text"><span class="title">Trey Morgan Website</span><span class="type"><br />/ Website /</span></span></span></a>
             </div>
             
             <div class="box cat2"><a href="work/30-deeds.php"><img class="vignette2" src="images/30-deeds_thumb.jpg" alt="30 Deeds, 30 days" />
@@ -97,20 +85,12 @@
             <span class="info"><span class="text"><span class="title">The Weekend Throwdown</span><span class="type"><br />/ Identity, Website /</span></span></span></a>
             </div>   
             
-            <div class="box cat2"><a href="work/souvenir-ticket.php"><img class="vignette2" src="images/souvenir-ticket_thumb.jpg" alt="Souvenir Concert Ticket" />
-            <span class="info"><span class="text"><span class="title">Souvenir Concert Ticket</span><span class="type"><br />/ Print /</span></span></span></a>
-            </div>   
-            
             <div class="box cat2"><a href="work/prisma.php"><img class="vignette2" src="images/prisma_thumb.jpg" alt="Prisma" />
             <span class="info"><span class="text"><span class="title">Prisma</span><span class="type"><br />/ Print /</span></span></span></a>
             </div>
             
             <div class="box cat2"><a href="work/patterson-design.php"><img class="vignette2" src="images/patterson-design_thumb.jpg" alt="Patterson Design" />
             <span class="info"><span class="text"><span class="title">Patterson Design</span><span class="type"><br />/ Identity /</span></span></span></a>
-            </div>
-
-            <div class="box cat2"><a href="work/trey-morgan02.php"><img class="vignette2" src="images/trey-morgan-flyer_thumb.jpg" alt="Trey Morgan Jock Card" />
-            <span class="info"><span class="text"><span class="title">Trey Morgan<br />Jock Card</span><span class="type"><br />/ Flyer /</span></span></span></a>
             </div>
                
                
