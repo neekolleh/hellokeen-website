@@ -6,9 +6,9 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Keenon Snell / Design Professional</title>
+<title>Keenon Snell / Digital Content, Design, Media</title>
 
-<meta name="description" content="Web design, web development &amp; graphic design services for small businesses in the New York area and beyond." />
+<meta name="description" content="Web design, web development &amp; graphic design services for small businesses in the New York Metropolitan area and beyond." />
 <meta name="keywords" content="web design, graphic design, identity, branding, logo design, website design, print design, creative, front end development, new york, ny" />
 <meta name="robots" content="index, follow, all" /> 
 <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
@@ -28,27 +28,52 @@
 </head>
 <body>
 
-		<? include($_SERVER['DOCUMENT_ROOT'] .'/includes/analytics.php'); ?>
+<!--Analytics begin formerly analytics.php-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40086308-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>  
+<!--Analytics end formerly analytics.php-->
 
 <!--Main-->
 
     <div class="main">
     
-<!--Header-->
-    
-		<? include($_SERVER['DOCUMENT_ROOT'] .'/includes/header.php'); ?>
+<!--Header begin formerly header.php-->
+        <header>      
+            <div class="name">
+            Keenon Snell / Design Professional
+            </div>
 
+                
+            <div class="logo"><a href="/index.php"><img src="/images/logo.png" alt="HelloKeen" /></a>
+            </div>
+                
+            <ul class="navigation">
+
+                <li><a href="/index.php" class="active">Work</a></li>
+                <li><a href="/about.php"> About</a></li>
+                <li><a href="/services.php"> Services</a></li>
+
+            </ul>    
+        </header>
+<!--Header end formerly header.php-->
         
 <!--Content-->
-
-    
     <section class="rw-wrapper">
 
     	<h1 class="rw-sentence">Thanks for saying <a href="mailto:info@hellokeen.com?subject=Hello%20Keen">hello</a>.</h1><br />
 
 	</section>
                 
-       
 			<ul class="filteroptions option-set">
 
 				<li><a href="" data-filter="*" class="active">All</a></li>
@@ -60,8 +85,6 @@
                 <li><a href="" data-filter=".cat3">Art</a></li>
 
 			</ul>
-
-        
         
         <div id="content">
         
@@ -92,20 +115,25 @@
             <div class="box cat2"><a href="work/patterson-design.php"><img class="vignette2" src="images/patterson-design_thumb.jpg" alt="Patterson Design" />
             <span class="info"><span class="text"><span class="title">Patterson Design</span><span class="type"><br />/ Identity /</span></span></span></a>
             </div>
-               
-               
-            
      
         </div>
 
+ <!-- Footer begin formerly footer.php-->
+            <footer> 
+            
+                <div class="follow">
+                <a class="link" href="mailto:info@hellokeen.com?subject=Hello Keen"><img src="/images/icon-email.png" alt="Email me" /><span>Email me</span></a>
+                <a class="link" href="https://twitter.com/hellokeen" target="_blank"><img src="/images/icon-twitter.png" alt="Follow me on Twitter" /><span>Follow me on Twitter</span></a>
+                <a class="link" href="http://hellokeen.tumblr.com/" target="_blank"><img src="/images/icon-tumblr.png" alt="Follow me on Tumblr" /><span>Follow me on Tumblr</span></a>
+                <a class="link" href="http://www.linkedin.com/pub/keenon-snell/69/47a/672" target="_blank"><img src="/images/icon-linkedin.png" alt="Follow me on Linkedin" /><span>Follow me on Linkedin</span></a>
+                
+                </div>
+            
+            <span class="copyright">&copy; <?php echo date("Y") ?> Keenon Snell</span>
 
-        
- <!-- Footer -->
+            </footer>
+ <!-- Footer end formerly footer.php-->
 
-
-			<? include($_SERVER['DOCUMENT_ROOT'] .'/includes/footer.php'); ?>
-  
-       
 			<div class="scrollToTop"><a href="#"><img class="img-scroll" src="/images/arrow.jpg" /></a>
             </div>  
    
